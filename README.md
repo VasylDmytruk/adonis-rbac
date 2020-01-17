@@ -1,9 +1,11 @@
 # adonis-rbac
 
+This is fork from [https://github.com/wxs77577/adonis-rbac](https://github.com/wxs77577/adonis-rbac)
+
 ## Install
 
 ```bash
-adonis install adonis-rbac --yarn
+adonis install snapget-adonis-rbac --yarn
 ```
 
 ## Setup
