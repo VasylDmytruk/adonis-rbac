@@ -1,4 +1,4 @@
-# adonis-rbac
+# snapget-adonis-rbac
 
 This is fork from [https://github.com/wxs77577/adonis-rbac](https://github.com/wxs77577/adonis-rbac)
 
