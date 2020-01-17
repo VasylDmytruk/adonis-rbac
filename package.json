@@ -1,6 +1,6 @@
 {
   "name": "snapget-adonis-rbac",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fork of https://github.com/wxs77577/adonis-rbac . Rbac for adonisjs",
   "main": "index.js",
   "scripts": {
