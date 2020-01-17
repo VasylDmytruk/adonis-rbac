@@ -1,27 +1,23 @@
 {
   "name": "adonis-rbac",
-  "version": "1.0.2",
+  "version": "1.0.0",
+  "description": "Fork of https://github.com/wxs77577/adonis-rbac . Rbac for adonisjs",
   "main": "index.js",
-  "keywords": [
-    "adonisjs",
-    "rbac",
-    "adonis rbac",
-    "adonis-framework"
-  ],
-  "author": "JohnnyWu <wu-xuesong@qq.com>",
-  "license": "MIT",
-  "devDependencies": {
-    "@adonisjs/fold": "^4.0.8",
-    "@adonisjs/sink": "^1.0.13",
-    "japa": "^1.0.5",
-    "japa-cli": "^1.0.1",
-    "standard": "^10.0.3"
-  },
-  "dependencies": {
-    "lodash": "^4.17.10"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wxs77577/adonis-rbac.git"
-  }
+    "url": "git+https://github.com/VasylDmytruk/adonis-rbac.git"
+  },
+  "keywords": [
+    "adonis",
+    "rbac"
+  ],
+  "author": "Vasyl Dmytruk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VasylDmytruk/adonis-rbac/issues"
+  },
+  "homepage": "https://github.com/VasylDmytruk/adonis-rbac#readme"
 }
