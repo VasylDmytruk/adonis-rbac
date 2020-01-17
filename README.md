@@ -13,7 +13,7 @@ adonis install snapget-adonis-rbac --yarn
     ```js
     const providers = [
       //...
-      'adonis-rbac/providers/RbacProvider',
+      'snapget-adonis-rbac/providers/RbacProvider',
     ]
     ```
 
